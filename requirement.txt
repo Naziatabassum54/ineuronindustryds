@@ -2,3 +2,4 @@ This is requirement page for DS
 Python
 Panda
 Numpy
+Anaconda
