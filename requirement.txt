@@ -3,3 +3,4 @@ Python
 Panda
 Numpy
 Anaconda
+pycharm
